@@ -1,0 +1,14 @@
+# Ignore everything in repository root 
+/*
+
+# Files to not ignore
+!/.gitignore
+
+# Folder to not ignore
+!/puppet/
+!/nvim/
+!/polybar/
+!/kitty/
+!/rofi/
+!/i3/
+!/picom/
